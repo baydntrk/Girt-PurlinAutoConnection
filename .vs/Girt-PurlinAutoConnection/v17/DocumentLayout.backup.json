@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB3396-571D-4E40-9194-F8168D4F8F12}|Girt-PurlinAutoConnection.csproj|c:\\users\\aydin\\onedrive\\desktop\\teklamacros\\girt-purlinautoconnection\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEB3396-571D-4E40-9194-F8168D4F8F12}|Girt-PurlinAutoConnection.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB3396-571D-4E40-9194-F8168D4F8F12}|Girt-PurlinAutoConnection.csproj|C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEB3396-571D-4E40-9194-F8168D4F8F12}|Girt-PurlinAutoConnection.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB3396-571D-4E40-9194-F8168D4F8F12}|Girt-PurlinAutoConnection.csproj|C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEB3396-571D-4E40-9194-F8168D4F8F12}|Girt-PurlinAutoConnection.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB3396-571D-4E40-9194-F8168D4F8F12}|Girt-PurlinAutoConnection.csproj|C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\licensing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEB3396-571D-4E40-9194-F8168D4F8F12}|Girt-PurlinAutoConnection.csproj|solutionrelative:licensing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB3396-571D-4E40-9194-F8168D4F8F12}|Girt-PurlinAutoConnection.csproj|C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEB3396-571D-4E40-9194-F8168D4F8F12}|Girt-PurlinAutoConnection.csproj|solutionrelative:sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB3396-571D-4E40-9194-F8168D4F8F12}|Girt-PurlinAutoConnection.csproj|C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CEB3396-571D-4E40-9194-F8168D4F8F12}|Girt-PurlinAutoConnection.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB3396-571D-4E40-9194-F8168D4F8F12}|Girt-PurlinAutoConnection.csproj|C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2CEB3396-571D-4E40-9194-F8168D4F8F12}|Girt-PurlinAutoConnection.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T10:29:18.165Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T12:19:17.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Licensing.cs",
+              "DocumentMoniker": "C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\Licensing.cs",
+              "RelativeDocumentMoniker": "Licensing.cs",
+              "ToolTip": "C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\Licensing.cs",
+              "RelativeToolTip": "Licensing.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswG0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T16:12:17.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SampleData.cs",
+              "DocumentMoniker": "C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\SampleData.cs",
+              "RelativeDocumentMoniker": "SampleData.cs",
+              "ToolTip": "C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\SampleData.cs",
+              "RelativeToolTip": "SampleData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:39:23.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T10:02:28.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T10:09:22.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\aydin\\OneDrive\\Desktop\\TeklaMacros\\Girt-PurlinAutoConnection\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T10:28:34.705Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
